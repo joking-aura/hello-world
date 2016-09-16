@@ -1,4 +1,4 @@
 # hello-world
 tutorial
 
-Just trying to lean the coding world!!
+Just trying to learn the coding world!!
